@@ -1,0 +1,10 @@
+﻿<Window x:Class="WebBrowserComponentWPF.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		Title="MainWindow" Height="521" Width="625">
+	<DockPanel LastChildFill="True">
+		<TextBox DockPanel.Dock="Top" x:Name="textBoxUrl"/>
+		<Button DockPanel.Dock="Top" Content="Browse" Click="Button_Click"/>
+		<WebBrowser x:Name="webBrowser"/>
+	</DockPanel>
+</Window>

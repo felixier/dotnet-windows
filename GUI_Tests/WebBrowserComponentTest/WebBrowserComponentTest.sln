@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowserComponentWinForms", "WebBrowserComponentWinForms\WebBrowserComponentWinForms.csproj", "{AA31E232-ADD7-44C1-BC7D-EC11852D916B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowserComponentWPF", "WebBrowserComponentWPF\WebBrowserComponentWPF.csproj", "{1FA0E468-287C-43A1-86A2-33C698F06B5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA31E232-ADD7-44C1-BC7D-EC11852D916B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA31E232-ADD7-44C1-BC7D-EC11852D916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA31E232-ADD7-44C1-BC7D-EC11852D916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA31E232-ADD7-44C1-BC7D-EC11852D916B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA0E468-287C-43A1-86A2-33C698F06B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA0E468-287C-43A1-86A2-33C698F06B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA0E468-287C-43A1-86A2-33C698F06B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA0E468-287C-43A1-86A2-33C698F06B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
